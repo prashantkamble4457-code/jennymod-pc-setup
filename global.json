@@ -1,0 +1,7 @@
+{
+  "sdk": {
+    "version": "8.0.100",
+    "rollForward": "latestMinor",
+    "comment": "Reserved for the optional C# launcher-integration helper (jennymod-launcher)."
+  }
+}
