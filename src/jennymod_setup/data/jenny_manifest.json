@@ -1,0 +1,37 @@
+{
+  "channel": "stable",
+  "versions": {
+    "1.20.1": {
+      "artifacts": [
+        {
+          "name": "jenny-mod-1.20.1.jar",
+          "url": "https://cdn.jennymod.dev/releases/1.20.1/jenny-mod-1.20.1.jar",
+          "sha256": "0f4a9b3c8d1e2f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a",
+          "target": "mods/jenny-mod-1.20.1.jar",
+          "size": 4821330,
+          "required": true
+        },
+        {
+          "name": "geckolib-fabric-4.4.4.jar",
+          "url": "https://cdn.jennymod.dev/deps/geckolib-fabric-4.4.4.jar",
+          "sha256": "9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a8b",
+          "target": "mods/geckolib-fabric-4.4.4.jar",
+          "size": 1893420,
+          "required": true
+        }
+      ]
+    },
+    "1.19.2": {
+      "artifacts": [
+        {
+          "name": "jenny-mod-1.19.2.jar",
+          "url": "https://cdn.jennymod.dev/releases/1.19.2/jenny-mod-1.19.2.jar",
+          "sha256": "1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b",
+          "target": "mods/jenny-mod-1.19.2.jar",
+          "size": 4610022,
+          "required": true
+        }
+      ]
+    }
+  }
+}
