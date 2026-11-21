@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <RepoName>jennymod-pc-setup</RepoName>
+    <ProductName>JennyMod Installer For PC</ProductName>
+    <VersionPrefix>2.4.1</VersionPrefix>
+    <Authors>jennymod community</Authors>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+</Project>
