@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <OutputType>Library</OutputType>
+    <AssemblyName>JennyMod.LauncherBridge</AssemblyName>
+    <RootNamespace>JennyMod.LauncherBridge</RootNamespace>
+    <Description>Optional C# bridge that registers the JennyMod profile with the official Minecraft launcher.</Description>
+  </PropertyGroup>
+</Project>
