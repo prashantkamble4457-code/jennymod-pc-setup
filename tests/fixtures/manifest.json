@@ -1,0 +1,17 @@
+{
+  "channel": "stable",
+  "versions": {
+    "1.20.1": {
+      "artifacts": [
+        {
+          "name": "jenny-mod-1.20.1.jar",
+          "url": "https://example.invalid/jenny.jar",
+          "sha256": "deadbeef",
+          "target": "mods/jenny-mod-1.20.1.jar",
+          "size": 100,
+          "required": true
+        }
+      ]
+    }
+  }
+}
